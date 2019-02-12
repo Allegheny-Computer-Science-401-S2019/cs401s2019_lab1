@@ -25,4 +25,14 @@ Provide commands
 
 Explain how to run the tests for your scanner.
 
-### Acknowledgments
+## Acknowledgments
+
+## Updates
+
+When the course instructor provides the new material for the lab, you can type this command in the main directory for this repository:
+
+git remote add download git@github.com:Allegheny-Computer-Science-401-S2019/cs401s2019_lab1.git
+
+You should only need to type this command once; typing the command additional times may yield an error message but will not negatively influence the state of your repository. Now, you are ready to download the newly uploaded files provided by the course instructor by typing:
+
+git pull download master
