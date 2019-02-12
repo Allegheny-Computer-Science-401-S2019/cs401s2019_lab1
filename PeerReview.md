@@ -2,7 +2,7 @@
 ## Project Author:
 ### Date of the review:
 
-#### Number of LOC Reviewed:
+### Number of LOC Reviewed:
 
 ### Peer Review Summary
 
